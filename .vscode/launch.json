@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - radF",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.radF",
+            "projectName": "test2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - combin2",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.combin2",
+            "projectName": "test2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileMerge",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.FileMerge",
+            "projectName": "test2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Combine",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.Combine",
+            "projectName": "test2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadFol",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.ReadFol",
+            "projectName": "test2"
+        }
+    ]
+}
