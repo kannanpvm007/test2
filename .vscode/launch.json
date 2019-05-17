@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - filter",
+            "request": "launch",
+            "mainClass": "com.kgisl.test2.filter",
+            "projectName": "test2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - radF",
             "request": "launch",
             "mainClass": "com.kgisl.test2.radF",
